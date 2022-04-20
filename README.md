@@ -1,2 +1,2 @@
 # java-1
-简单的Java小程序
+IDEA上编译通过的java小程序
